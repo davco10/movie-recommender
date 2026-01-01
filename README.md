@@ -16,7 +16,7 @@ filters movies based on age restrictions, and allows users to search movies by g
 
 ## How to Run
 1. Clone the repository
-2. Run 'selfproject.py' using Python 3
+2. Run 'movie_recommender.py' using Python 3
 3. Follow the prompts in the Console Log/Terminal
 
 ## Author
